@@ -1,5 +1,5 @@
 {
-  "name": "merge-yaml",
+  "name": "resolve-yaml",
   "version": "1.0.0",
   "description": "Merge yaml files and resolve relative file paths",
   "main": "cli.js",
