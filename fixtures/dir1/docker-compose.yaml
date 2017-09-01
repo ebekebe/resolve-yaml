@@ -1,0 +1,5 @@
+version: '2'
+services:
+  serviceA:
+    build: ./
+    image: just-a-string

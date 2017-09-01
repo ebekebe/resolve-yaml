@@ -1,0 +1,4 @@
+version: '3'
+services:
+  serviceB:
+    build: ./subdir
